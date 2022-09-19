@@ -1,0 +1,29 @@
+body{
+  font-family: Vazirmatn FD;
+  direction: rtl;
+
+}
+
+#home {
+  background-image: url("../img/1.jpg");
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+  color: white;
+  h1{
+    color: #4486fb;
+  }
+  h3{
+    color: #fd199a;
+  }
+
+  .introF {
+    width: 35%;
+    background-color: rgba(#000,30%);
+    height: 100%;
+    padding: 15px 70px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+}
